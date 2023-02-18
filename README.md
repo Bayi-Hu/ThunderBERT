@@ -21,7 +21,7 @@ ThunderBERT consists of two parts: pre-training and fine-tuning.
 
 * [1M_Normal Account Transaction](https://drive.google.com/file/d/1-htLUymg1UxDrXcI8tslU9wbn0E1vl9_/view?usp=sharing)
 
-* [3M_Normal Account Transaction](https://drive.google.com/file/d/1-htLUymg1UxDrXcI8tslU9wbn0E1vl9_/view?usp=sharing)
+* [3M_Normal Account Transaction]()
 
 
 #### Step 2. Unzip dataset under the directory of "ThunderBERT/Data"
